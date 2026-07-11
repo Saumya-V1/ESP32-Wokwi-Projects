@@ -2,7 +2,7 @@
 
 A simplified greenhouse/server-room controller featuring a finite state machine, hysteresis-based control logic, and MQTT telemetry — the most complex project in this collection.
 
-![circuit](./circuit.mp4)
+![circuit](./circuit.gif)
 
 ## How it works
 1. Reads temperature, humidity (DHT22), and light level (LDR) each cycle
