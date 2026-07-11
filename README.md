@@ -4,7 +4,7 @@ A collection of ESP32 projects exploring embedded systems, IoT networking, and r
 
 I'm a student exploring embedded/IoT/hardware as a career direction, and built these to learn the fundamentals hands-on before working with physical hardware. Each project README explains the wiring, code, and concepts learned.
 
-## Projects (in order of complexity)
+## Projects 
 
 | Project | Focus | Key Concepts |
 |---|---|---|
